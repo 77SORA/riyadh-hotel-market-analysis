@@ -46,7 +46,7 @@ The dashboard was designed to support pricing strategy decisions and identify co
 
 ## 📷 Dashboard Preview
 
-(Add dashboard screenshot here)
+![Riyadh Hotel Dashboard](images/a531b6ec-203b-46c1-b495-790b046ea3a4.jpeg)
 
 ---
 
